@@ -22,7 +22,7 @@ Em seguida, as tarefas são ordenadas com base na data e no horário de término
 Após a ordenação, o método agendamento_intervalo() é chamado, passando a lista tarefas como argumento. Esse método implementa o algoritmo de Interval Scheduling.
 
 ### Vídeo de apresentação
-[Apresentação]()
+[Apresentação](https://github.com/projeto-de-algoritmos/Greed_planejadorDeEstudos/blob/main/V%C3%ADdeo%20de%20apresenta%C3%A7%C3%A3o/V%C3%ADdeo%20de%20apresentacao.mp4)
 
 ## Screenshots
 
