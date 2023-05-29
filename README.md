@@ -13,7 +13,7 @@
 
 Esse código é um exemplo de implementação do algoritmo Interval Scheduling para a criação de uma agenda ou planejador de estudos. 
 
-Ao execultar ele o usuário deve escolher uma data e o horário de inico e término da atividade que deseja acrescentar. O usuário pode criar quantas tarefas quiser e após adicioná-las poderá criar a programação com todas as tarefas adicionadas por ele.
+Ao executar ele o usuário deve escolher uma data e o horário de início e término da atividade que deseja acrescentar. O usuário pode criar quantas tarefas quiser e após adicioná-las, poderá criar a programação com todas as tarefas adicionadas por ele.
 
 Para isso, o método gerar_programacao() é chamado quando o botão "Gerar Programação" é clicado, verificando se há pelo menos uma tarefa adicionada na lista tarefas. Caso contrário, exibe uma caixa de diálogo de erro.
 
