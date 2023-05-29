@@ -26,11 +26,9 @@ Após a ordenação, o método agendamento_intervalo() é chamado, passando a li
 
 ## Screenshots
 
-<center>
 ![image](https://github.com/projeto-de-algoritmos/Greed_planejadorDeEstudos/assets/70337717/8535c62b-4509-443a-a031-410f976cdd25) </br></br>
 ![image](https://github.com/projeto-de-algoritmos/Greed_planejadorDeEstudos/assets/70337717/3337a91e-67a2-4474-8f42-25de6bcc5917)</br></br>
 ![image](https://github.com/projeto-de-algoritmos/Greed_planejadorDeEstudos/assets/70337717/a62862f9-d1ad-4848-8814-fdcfcd72bcd0)</br></br>
-</center>
 
 ## Instalação 
 **Linguagem**: Python<br>
